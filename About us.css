@@ -1,0 +1,50 @@
+.head a{
+    text-decoration: none;
+}
+.habtc a{
+    text-decoration: none;
+}
+.head a{
+    text-decoration: none;
+    color: rgb(0, 119, 55);
+}
+.head{
+    font-size: 30px;
+    font-family: 'Luxurious Roman', cursive;
+}
+.habtc a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+.habtc{
+    text-align: right;
+    color: rgb(0, 17, 255);
+    font-size: 35px;
+}
+footer{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgba(251, 255, 0, 0.521);
+    height: auto;
+    font-family: 'Metal', cursive;
+}
+#copyright{
+    text-align: right;
+}
+#copyright a{
+    text-decoration: none;
+    color: rgb(255, 38, 0);
+}
+main{
+    font-size: 30px;
+    color: rgb(5, 11, 90);
+    background-color: antiquewhite;
+    margin: 0px;
+    padding: 20px;
+}
+.upper{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 10px;
+}
